@@ -22,16 +22,17 @@ music-recommender/
 📊 How It Works
    
    1. Preprocessing:
-     * Load song lyrics from CSV
-     * Clean and transform text using TF-IDF
+   
+* Load song lyrics from CSV
+* Clean and transform text using TF-IDF
      
-  2. Similarity Computation:
-      * Use cosine similarity to compare lyric vectors
-      * Generate recommendations based on closest vectors
+  3. Similarity Computation:
+   * Use cosine similarity to compare lyric vectors
+  * Generate recommendations based on closest vectors
 
-   3. App Interface:
-      * User inputs a song name
-      * App returns a list of recommended similar songs
+   4. App Interface:
+   * User inputs a song name
+    * App returns a list of recommended similar songs
 
 📌 Requirements
     * Python 3.8+
