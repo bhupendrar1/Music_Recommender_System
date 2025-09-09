@@ -11,14 +11,14 @@
   * 🎧 Dataset from Spotify's Million Song Lyrics collection
 
 📁 Project Structure
-     music-recommender/
-       ├── app.py                   # Main app script (e.g., Streamlit UI)
-       ├── training_model.ipynb     # Notebook for preprocessing and training
-       ├── spotify_millsongdata.csv # Dataset (song name + lyrics)
-       ├── requirements.txt         # Python dependencies
-       ├── .gitignore               # Files to ignore in repo
-       └── README.md                # Project overview
-
+music-recommender/
+├── app.py                   # Main app script (e.g., Streamlit UI)
+├── training_model.ipynb     # Notebook for preprocessing and training
+├── spotify_millsongdata.csv # Dataset (song name + lyrics)
+├── requirements.txt         # Python dependencies
+├── .gitignore               # Files to ignore in repo
+└── README.md                # Project overview
+  
 📊 How It Works
    
    1. Preprocessing:
