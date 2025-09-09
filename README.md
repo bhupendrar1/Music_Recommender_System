@@ -10,29 +10,6 @@
   * 💡 Powered by pandas, scikit-learn, and Streamlit
   * 🎧 Dataset from Spotify's Million Song Lyrics collection
 
-📁 Project Structure
-music-recommender/
-├── app.py                   # Main app script (e.g., Streamlit UI)
-├── training_model.ipynb     # Notebook for preprocessing and training
-├── spotify_millsongdata.csv # Dataset (song name + lyrics)
-├── requirements.txt         # Python dependencies
-├── .gitignore               # Files to ignore in repo
-└── README.md                # Project overview
-  
-📊 How It Works
-   
-   1. Preprocessing:
-   
-* Load song lyrics from CSV
-* Clean and transform text using TF-IDF
-     
-  3. Similarity Computation:
-   * Use cosine similarity to compare lyric vectors
-  * Generate recommendations based on closest vectors
-
-   4. App Interface:
-   * User inputs a song name
-    * App returns a list of recommended similar songs
 
 📌 Requirements
     * Python 3.8+
