@@ -8,22 +8,17 @@
   * 🧠 Uses TF-IDF vectorization on song lyrics
   * 📈 Cosine similarity-based recommendation engine
   * 💡 Powered by pandas, scikit-learn, and Streamlit
-  * 🎧 Dataset from Spotify's Million Song Lyrics collection
-
-
-📌 Requirements
-    * Python 3.8+
-    * pandas
-    * numpy
-    * scikit-learn
-    * streamlit
+  * 🎧 Dataset from Spotify's Million Song Lyrics collection  
 
  🗃️Dataset Info
-      * Source: Spotify Million Song Lyrics Dataset.
-       * Content: Song titles and full lyrics.
+    * Source: Spotify Million Song Lyrics Dataset.
+    * Content: Song titles and full lyrics.
        
  ||  Note: Dataset is included for educational purposes only.
 
  🙌 Acknowledgements
     * Spotify Million Song Dataset.
     * Python, scikit-learn, Streamlit.
+
+🤝 Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
